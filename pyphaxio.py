@@ -12,6 +12,9 @@ fax_no_tyler = Credentials.FAX_NO_DIRECT
 
 api_url = "https://api.phaxio.com/v2.1"
 
+
+
+
 send_to_no='+1-732-825-7572'
 send_to_file='/Volumes/GoogleDrive/My Drive/From_BrotherDevice/20211218222325_001.pdf'
 
